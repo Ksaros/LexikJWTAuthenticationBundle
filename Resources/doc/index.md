@@ -82,7 +82,7 @@ security:
 ```
 
 ``` yaml
-# Symfony 5.3 and higher
+# Symfony 5.3 and higher (this made my symfony console not working)
 security:
     enable_authenticator_manager: true
     # ...
